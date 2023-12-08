@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "TravelPlannerFunctions": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7290",
+      "environmentVariables": {
+        "supported_bank": "BARCLAYS"
+      }
+    }
+  }
+}
